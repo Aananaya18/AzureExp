@@ -1,0 +1,10 @@
+saml: https://learn.microsoft.com/en-us/azure/active-directory/saas-apps/saml-toolkit-tutorial#configure-azure-ad-sso
+keyvault: https://www.systanddeploy.com/2021/01/store-passwords-on-azure-key-vault-and.html
+groups: https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-groups-view-azure-portal
+identity federation: https://learn.microsoft.com/en-us/azure/active-directory/external-identities/google-federation
+rbac: https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-with-rbac/5-grant-access
+mfa: https://social.technet.microsoft.com/wiki/contents/articles/53054.office-365-set-up-multi-factor-authentication-for-users.aspx#:~:text=Multi-factor%20authentication%20%28MFA%29%201%201.%20Open%20Office%20365,for%20the%20selected%20accounts.%207%207.%20Click%20close
+alert rule: https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-create-new-alert-rule?tabs=metric
+administrative unit: https://learn.microsoft.com/en-us/azure/active-directory/roles/admin-units-manage
+priviledge identity management: https://learn.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-add-role-to-user
+
